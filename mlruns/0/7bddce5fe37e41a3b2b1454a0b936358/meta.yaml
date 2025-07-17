@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Networksecurity/mlruns/0/7bddce5fe37e41a3b2b1454a0b936358/artifacts
+end_time: 1752695499003
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bddce5fe37e41a3b2b1454a0b936358
+run_name: nimble-midge-622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752695491715
+status: 3
+tags: []
+user_id: ankit

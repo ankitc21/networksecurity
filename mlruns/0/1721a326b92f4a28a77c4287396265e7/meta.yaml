@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Networksecurity/mlruns/0/1721a326b92f4a28a77c4287396265e7/artifacts
+end_time: 1752728647041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1721a326b92f4a28a77c4287396265e7
+run_name: bouncy-robin-158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752728638348
+status: 3
+tags: []
+user_id: ankit
